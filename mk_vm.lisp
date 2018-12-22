@@ -2,7 +2,7 @@
 ;                                     >>  Implémentation de la VM  <<                                     ;
 ;                                                                                                         ;
 ;                          	               > Réalisé par :  											                        ;
-;                                             	Mostafa HASHEMI  								           	              ;
+;                                             	Mossi HASHEMI  								           	              ;
 ;                                                                                                         ;
 ;                                          > Sous la direction de :                                       ;
 ;                                               Monsieur Mathieu LAFOURCADE                               ;
